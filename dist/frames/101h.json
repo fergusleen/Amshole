@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "h"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Next Month Board\r\n[W]Plans are bold, deadlines are louder.\r\n[c][m.]\r\n[W]We are prepping a joystick stress test\r\n[W]and another beginner assembly\r\n[W]workshop.\r\n[W]Reader projects will get a full\r\n[W]spotlight if they include notes and\r\n[W]source.\r\n[c][m.]\r\n[G]- Hardware clinic.\r\n[G]- Classroom coding pack.\r\n[G]- Reader score league.\r\n[m][m-]\r\n[Y]TRY THIS\r\n[C]Send one bug story and one fix that\r\n[C]worked.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

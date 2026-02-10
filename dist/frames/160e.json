@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 160,
+    "frame-id": "e"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Scroller Style\r\n[W]Movement, rhythm and cheeky text.\r\n[c][m.]\r\n[W]Scrollers work best with short sharp\r\n[W]lines and deliberate pacing.\r\n[W]Synchronising text rhythm with music\r\n[W]accents adds energy.\r\n[c][m.]\r\n[G]- Keep lines short.\r\n[G]- Use clear spacing.\r\n[G]- Loop gracefully.\r\n[m][m-]\r\n[Y]SCENE STYLE\r\n[C]A tiny joke can carry a long scroller.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

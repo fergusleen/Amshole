@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 199,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]Help, About and Credits\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Navigation and service notes.\r\n[c][m.]\r\n[W]Use number keys on menu and section\r\n[W]index frames to jump by page number.\r\n[W]0 always returns to the main index\r\n[W]page, and # goes to this help page\r\n[W]where routing tables apply.\r\n[W]Article frames are designed for simple\r\n[W]reading with safe Telstar markup and\r\n[W]CRLF line endings.\r\n[c][m-]\r\n[Y]Credits\r\n[G]- AMSHOLE is a fictional CPC fan\r\n[G]magazine service.\r\n[G]- Technical notes are remixed from\r\n[G]local repository documents including\r\n[G]firmware and M4 developer material.\r\n[G]- Public reference knowledge from\r\n[G]classic CPC documentation, community\r\n[Y]CONTINUED ON 199b\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

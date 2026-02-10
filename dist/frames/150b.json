@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "b"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Variables\r\n[W]Named boxes for game state.\r\n[c][m.]\r\n[W]Use clear names for score, lives and\r\n[W]level so logic reads like plain\r\n[W]speech.\r\n[W]Set default values at startup to avoid\r\n[W]mysterious behaviour later.\r\n[c][m.]\r\n[G]- Pick clear names.\r\n[G]- Set initial values.\r\n[G]- Print while testing.\r\n[m][m-]\r\n[Y]BEGINNER TIP\r\n[C]Good names are free documentation.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

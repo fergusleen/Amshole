@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 120,
+    "frame-id": "i"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Make a Game\r\n[W]Small scope, full finish.\r\n[c][m.]\r\n[W]Start with one mechanic, one screen\r\n[W]and one clear goal.\r\n[W]Prototype controls first, then layer\r\n[W]visuals and sound.\r\n[c][m.]\r\n[G]- Build tiny.\r\n[G]- Test daily.\r\n[G]- Ship version one.\r\n[m][m-]\r\n[Y]PROJECT\r\n[C]Finished and simple beats endless and\r\n[C]broken.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

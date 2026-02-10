@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "j"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Mini Project\r\n[W]Build a one-screen dodge game.\r\n[c][m.]\r\n[W]Implement movement, hazards, score and\r\n[W]lives before adding polish.\r\n[W]Ship a complete tiny game, then\r\n[W]iterate from feedback.\r\n[c][m.]\r\n[G]- Core loop first.\r\n[G]- Collision second.\r\n[G]- Polish last.\r\n[m][m-]\r\n[Y]GOAL\r\n[C]Completion creates confidence.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

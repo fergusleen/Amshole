@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]CPC Internals Deep Dive Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Registers, timing and hardware\r\n[W]behaviour in plain language.\r\n[G]Frame run: 130b to 130k.\r\n[c][m.]\r\n[Y]B Z80 Memory Map\r\n[Y]C ROM and RAM Banking\r\n[Y]D Gate Array Behaviour\r\n[Y]E CRTC Registers and Timing\r\n[Y]F Interrupt Rhythm\r\n[Y]G Raster Tricks\r\n[Y]H AY-3-8912 Sound Internals\r\n[Y]I Keyboard Matrix\r\n[Y]J Firmware Vectors\r\n[Y]K Internals Workbench\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

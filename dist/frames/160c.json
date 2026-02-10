@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 160,
+    "frame-id": "c"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Palette Tricks\r\n[W]Mood changes without redrawing.\r\n[c][m.]\r\n[W]Palette swaps can signal danger,\r\n[W]nighttime or power states cheaply.\r\n[W]Consistent colour semantics help\r\n[W]players read status quickly.\r\n[c][m.]\r\n[G]- Reserve warning colours.\r\n[G]- Test contrast.\r\n[G]- Avoid noisy combinations.\r\n[m][m-]\r\n[Y]TIP\r\n[C]Border colour can reinforce scene\r\n[C]mood.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

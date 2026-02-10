@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "g"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Did You Know?\r\n[W]Little facts for big bragging rights.\r\n[c][m.]\r\n[W]The CPC keyboard is matrix scanned and\r\n[W]tightly linked with the machine sound\r\n[W]hardware.\r\n[W]The mixed-chip design is quirky, but\r\n[W]that quirk is where the tricks live.\r\n[c][m.]\r\n[G]- Z80 drives logic.\r\n[G]- CRTC shapes timing.\r\n[G]- Gate Array colours output.\r\n[m][m-]\r\n[Y]TRIVIA\r\n[C]Many classic effects come from timing\r\n[C]more than raw speed.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

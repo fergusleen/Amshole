@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 170,
+    "frame-id": "e"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Joke Zone\r\n[W]Certified groan material.\r\n[c][m.]\r\n[W]Why did the coder fear line ten?\r\n[W]Because line ten had no comment and\r\n[W]bad intent.\r\n[W]What is the official fuel of\r\n[W]debugging? Tea and stubbornness.\r\n[c][m.]\r\n[G]- One-liners only.\r\n[G]- No cruel jokes.\r\n[G]- Maximum groan.\r\n[m][m-]\r\n[Y]JOKE POLICY\r\n[C]If someone snorts tea, success.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

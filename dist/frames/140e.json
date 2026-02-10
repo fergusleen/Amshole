@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "e"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Debugging Routine\r\n[W]Calm method beats frantic edits.\r\n[c][m.]\r\n[W]Shrink bugs into tiny reproducible\r\n[W]cases, then test one change at a time.\r\n[W]Write assumptions down; most hard bugs\r\n[W]are hidden assumptions.\r\n[c][m.]\r\n[G]- Reproduce first.\r\n[G]- Isolate variables.\r\n[G]- Log observed values.\r\n[m][m-]\r\n[Y]WORKFLOW\r\n[C]Slow is smooth, smooth is fast.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

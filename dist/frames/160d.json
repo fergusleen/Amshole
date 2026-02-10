@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 160,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Charset Magic\r\n[W]Tile graphics through redefined\r\n[W]characters.\r\n[c][m.]\r\n[W]Custom character sets are\r\n[W]memory-efficient for UI and map-like\r\n[W]displays.\r\n[W]Consistent tile rules simplify editing\r\n[W]and bug fixing.\r\n[c][m.]\r\n[G]- Define tile set first.\r\n[G]- Reuse motifs.\r\n[G]- Keep text legible.\r\n[m][m-]\r\n[Y]UI BOX\r\n[C]A good font is part of game feel.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

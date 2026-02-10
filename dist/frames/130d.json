@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Gate Array Behaviour\r\n[W]Colour control and timing interplay.\r\n[c][m.]\r\n[W]The Gate Array handles palette and\r\n[W]display mode control and interacts\r\n[W]with timing-sensitive effects.\r\n[W]Cycle-accurate writes are essential\r\n[W]when producing stable raster colour\r\n[W]changes.\r\n[c][m.]\r\n[G]- Pen and border updates.\r\n[G]- Mode control bits.\r\n[G]- Timing-sensitive output.\r\n[m][m-]\r\n[Y]LAB NOTE\r\n[C]One missed cycle can shift an entire\r\n[C]bar.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

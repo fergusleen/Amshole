@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 180,
+    "frame-id": "f"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Project Ideas\r\n[W]Cross-subject tasks with coding.\r\n[c][m.]\r\n[W]Math quizzes, history timelines and\r\n[W]science simulations all fit the CPC\r\n[W]classroom model.\r\n[W]Small scope with clear deadlines keeps\r\n[W]delivery realistic.\r\n[c][m.]\r\n[G]- Math game.\r\n[G]- History scroller.\r\n[G]- Science logger simulation.\r\n[m][m-]\r\n[Y]TEACHER TOOL\r\n[C]Coding projects can support many\r\n[C]subjects.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

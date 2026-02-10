@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 160,
+    "frame-id": "h"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Demo Layout\r\n[W]Sequence effects like a story.\r\n[c][m.]\r\n[W]Open with clarity, escalate with\r\n[W]contrast and finish with a memorable\r\n[W]signature.\r\n[W]Transitions should be intentional and\r\n[W]quick to keep momentum.\r\n[c][m.]\r\n[G]- Hook quickly.\r\n[G]- Escalate cleanly.\r\n[G]- Finish strong.\r\n[m][m-]\r\n[Y]STAGING\r\n[C]Order matters as much as effects.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

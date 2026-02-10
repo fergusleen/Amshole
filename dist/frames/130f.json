@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "f"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Interrupt Rhythm\r\n[W]Periodic events for stable updates.\r\n[c][m.]\r\n[W]The CPC interrupt flow supports\r\n[W]regular tasks such as music stepping\r\n[W]and split timing checks.\r\n[W]Keep handlers short and move heavy\r\n[W]logic to the main loop using flags.\r\n[c][m.]\r\n[G]- Short handlers.\r\n[G]- Shared state flags.\r\n[G]- Predictable update cadence.\r\n[m][m-]\r\n[Y]PRACTICE\r\n[C]Measure jitter before rewriting code\r\n[C]paths.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

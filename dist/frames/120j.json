@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 120,
+    "frame-id": "j"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Hiscore Club\r\n[W]Honour system and maximum bragging.\r\n[c][m.]\r\n[W]Record game, score, date and mode so\r\n[W]runs can be compared fairly.\r\n[W]Friendly taunts are welcome; fake\r\n[W]scores are not.\r\n[c][m.]\r\n[G]- Log date.\r\n[G]- Log settings.\r\n[G]- Play fair.\r\n[m][m-]\r\n[Y]LEAGUE NOTE\r\n[C]Honest records build better\r\n[C]competition.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

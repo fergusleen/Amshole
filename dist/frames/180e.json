@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 180,
+    "frame-id": "e"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Safe Habits\r\n[W]Respect the kit and the room.\r\n[c][m.]\r\n[W]No drinks near machines, clean\r\n[W]shutdowns and labelled disks reduce\r\n[W]accidents.\r\n[W]Shared responsibility routines also\r\n[W]teach teamwork and care.\r\n[c][m.]\r\n[G]- Dry desks.\r\n[G]- Label media.\r\n[G]- Store hardware properly.\r\n[m][m-]\r\n[Y]CLASS RULE\r\n[C]Carefulness is part of computing\r\n[C]literacy.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

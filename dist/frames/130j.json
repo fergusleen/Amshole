@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "j"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Firmware Vectors\r\n[W]Use the jumpblocks wisely.\r\n[c][m.]\r\n[W]Firmware vector calls abstract\r\n[W]lower-level implementation details and\r\n[W]improve portability.\r\n[W]When extending with hardware like M4,\r\n[W]keep interfaces explicit and read\r\n[W]system pointers dynamically.\r\n[c][m.]\r\n[G]- Prefer vector entry points.\r\n[G]- Avoid magic addresses.\r\n[G]- Read current config pointers.\r\n[m][m-]\r\n[Y]REFERENCE\r\n[C]Compatibility is part of technical\r\n[C]quality.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

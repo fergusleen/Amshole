@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "h"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Input Shortcuts\r\n[W]Comfort increases speed.\r\n[c][m.]\r\n[W]Map common editor actions to nearby\r\n[W]keys and display hints on-screen.\r\n[W]Offer redefine controls to support\r\n[W]different users and setups.\r\n[c][m.]\r\n[G]- Keep mappings consistent.\r\n[G]- Show key legend.\r\n[G]- Test with beginners.\r\n[m][m-]\r\n[Y]UX\r\n[C]Predictable controls reduce support\r\n[C]problems.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

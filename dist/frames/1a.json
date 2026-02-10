@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 1,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]CPC Mosaic Intro\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[Y]WELCOME TO AMSHOLE\r\n[c][m.]\r\n[y[      ________________________      ]]\r\n[g[     /   AMSTRAD CPC 6128    \\     ]]\r\n[c[    /__________________________\\    ]]\r\n[b[    | [] [] [] [] [] [] [] [] |    ]]\r\n[m[    | [] [] [] [] [] [] [] [] |    ]]\r\n[w[    |__________________________|    ]]\r\n[y[    |   .------------------.   |    ]]\r\n[c[    |   | READY            |   |    ]]\r\n[g[    |   '------------------'   |    ]]\r\n[m[    |__________________________|    ]]\r\n[c][m-]\r\n[W]A 1980S CPC FAN SERVICE\r\n[W]PRESS 0 FOR MAIN INDEX\r\n[W]PRESS # FOR HELP\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    100,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    199
+  ]
+}

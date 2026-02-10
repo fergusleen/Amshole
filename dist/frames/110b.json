@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 110,
+    "frame-id": "b"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Model Family\r\n[W]464, 664, 6128: same soul, different\r\n[W]loadout.\r\n[c][m.]\r\n[W]The 464 brought tape convenience, the\r\n[W]664 introduced built-in disk, and the\r\n[W]6128 pushed memory further.\r\n[W]All three shared a tidy out-of-box\r\n[W]setup that families could actually\r\n[W]manage.\r\n[c][m.]\r\n[G]- 464: tape era icon.\r\n[G]- 664: short but important run.\r\n[G]- 6128: the all-rounder.\r\n[m][m-]\r\n[Y]HISTORY\r\n[C]Bundled monitor plus power design\r\n[C]reduced setup chaos.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 180,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]Parents and Teachers Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]How the CPC supports learning at home\r\n[W]and school.\r\n[G]Frame run: 180b to 180k.\r\n[c][m.]\r\n[Y]B Why It Works\r\n[Y]C Classroom Setup\r\n[Y]D Budgeting\r\n[Y]E Safe Habits\r\n[Y]F Project Ideas\r\n[Y]G Coding Clubs\r\n[Y]H Game Evaluation\r\n[Y]I History Links\r\n[Y]J Buying Checklist\r\n[Y]K Parents Signoff\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

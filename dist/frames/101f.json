@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "f"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Interview Desk\r\n[W]Firmware talk with a practical wizard.\r\n[c][m.]\r\n[W]The pro answer stayed the same: use\r\n[W]firmware vectors and avoid brittle\r\n[W]hardcoded addresses.\r\n[W]Compatibility work is not boring; it\r\n[W]keeps software alive for decades.\r\n[c][m.]\r\n[G]- Call jumpblocks.\r\n[G]- Document assumptions.\r\n[G]- Prefer clear interfaces.\r\n[m][m-]\r\n[Y]PRO QUOTE\r\n[C]Fast code is nice, portable code\r\n[C]survives.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

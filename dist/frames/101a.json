@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 101,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]News & Magazine Features Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Headlines, letters, rants and rumours\r\n[W]from the CPC universe.\r\n[G]Frame run: 101b to 101k.\r\n[c][m.]\r\n[Y]B Scene News Desk\r\n[Y]C Letters Bag\r\n[Y]D Rant Column\r\n[Y]E Cover Tape Dream\r\n[Y]F Interview Desk\r\n[Y]G Did You Know?\r\n[Y]H Next Month Board\r\n[Y]I Classifieds\r\n[Y]J Feature Long Read\r\n[Y]K Editorial Signoff\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "i"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Assembler Starter\r\n[W]Speed when you need it.\r\n[c][m.]\r\n[W]Begin with tiny routines and call them\r\n[W]from BASIC while measuring real\r\n[W]benefit.\r\n[W]Comment register usage so integration\r\n[W]bugs are easier to spot.\r\n[c][m.]\r\n[G]- Start tiny.\r\n[G]- Measure results.\r\n[G]- Preserve required registers.\r\n[m][m-]\r\n[Y]MACHINE CODE\r\n[C]Hybrid BASIC plus ASM can be ideal.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

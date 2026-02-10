@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 170,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]Fun Stuff Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Quizzes, jokes, fake adverts and\r\n[W]letters.\r\n[G]Frame run: 170b to 170k.\r\n[c][m.]\r\n[Y]B Quiz Round One\r\n[Y]C Quiz Round Two\r\n[Y]D Quiz Answers\r\n[Y]E Joke Zone\r\n[Y]F Letters Page\r\n[Y]G Fake Ad Break\r\n[Y]H 8-Bit Horoscope\r\n[Y]I Top Ten Team Names\r\n[Y]J Next Issue Tease\r\n[Y]K Fun Signoff\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 110,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Disk and AMSDOS\r\n[W]Faster workflow, better iteration.\r\n[c][m.]\r\n[W]AMSDOS added disk commands that made\r\n[W]development loops shorter and less\r\n[W]painful.\r\n[W]Directory structures and headers\r\n[W]reward careful organisation and\r\n[W]consistent naming.\r\n[c][m.]\r\n[G]- Use clear filenames.\r\n[G]- Track versions by date.\r\n[G]- Protect finished masters.\r\n[m][m-]\r\n[Y]DID YOU KNOW?\r\n[C]Firmware variables keep drive and user\r\n[C]state ready for tools.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

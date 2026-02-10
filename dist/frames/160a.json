@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 160,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]Art, Graphics and Sound Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Visual style, music craft and\r\n[W]presentation polish.\r\n[G]Frame run: 160b to 160k.\r\n[c][m.]\r\n[Y]B Mode 0 Pixel Art\r\n[Y]C Palette Tricks\r\n[Y]D Charset Magic\r\n[Y]E Scroller Style\r\n[Y]F AY Music Basics\r\n[Y]G Drum Illusions\r\n[Y]H Demo Layout\r\n[Y]I Text FX\r\n[Y]J Scene Etiquette\r\n[Y]K Portfolio Page\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

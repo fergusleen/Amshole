@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 170,
+    "frame-id": "c"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Quiz Round Two\r\n[W]Now the spicy technical bits.\r\n[c][m.]\r\n[W]This round covers ports, interrupts\r\n[W]and practical coding habits.\r\n[W]Award yourself extra points for\r\n[W]explaining why, not just what.\r\n[c][m.]\r\n[G]- M4 dataport.\r\n[G]- Interrupt entry.\r\n[G]- Memory mapping basics.\r\n[m][m-]\r\n[Y]BONUS\r\n[C]Write one answer in plain language for\r\n[C]a friend.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

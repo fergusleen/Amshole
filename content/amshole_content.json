@@ -1,0 +1,1889 @@
+{
+  "service": {
+    "name": "AMSHOLE",
+    "subtitle": "Amstrad CPC information and fan service",
+    "voice": "1980s British home-computer magazine",
+    "audience": "young coders, players, parents and teachers"
+  },
+  "menu": {
+    "strapline": "Loud colours, sharp tips, and pure CPC enthusiasm.",
+    "options": [
+      {
+        "key": 1,
+        "label": "News and Features",
+        "target": 101
+      },
+      {
+        "key": 2,
+        "label": "Hardware and History",
+        "target": 110
+      },
+      {
+        "key": 3,
+        "label": "Games Zone",
+        "target": 120
+      },
+      {
+        "key": 4,
+        "label": "CPC Internals",
+        "target": 130
+      },
+      {
+        "key": 5,
+        "label": "Tips and Tricks",
+        "target": 140
+      },
+      {
+        "key": 6,
+        "label": "Learn to Code",
+        "target": 150
+      },
+      {
+        "key": 7,
+        "label": "Art and Sound",
+        "target": 160
+      },
+      {
+        "key": 8,
+        "label": "Fun Stuff",
+        "target": 170
+      },
+      {
+        "key": 9,
+        "label": "Parents and Teachers",
+        "target": 180
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "news",
+      "name": "News & Magazine Features",
+      "page_no": 101,
+      "index_intro": "Headlines, letters, rants and rumours from the CPC universe.",
+      "index_note": "Frame run: 101b to 101k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "scene-news-desk",
+          "title": "Scene News Desk",
+          "intro": "Fresh disks, fresh demos, fresh cheek.",
+          "paragraphs": [
+            "Coders keep squeezing the CPC with sharper rasters and cleaner scrolling text.",
+            "Small teams still ship clever ideas because they plan first and panic later."
+          ],
+          "bullets": [
+            "Demos are getting tighter.",
+            "Tools are getting friendlier.",
+            "Readers keep submitting hacks."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Mode 2 text pages still look brilliant on a green screen."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "letters-bag",
+          "title": "Letters Bag",
+          "intro": "Real post, real opinions, real tea stains.",
+          "paragraphs": [
+            "Readers ask about sticky keys, floppy belts and where to begin with assembler.",
+            "Best advice this week: write tiny routines and test on every change."
+          ],
+          "bullets": [
+            "Most asked: joystick choices.",
+            "Best tip: label every disk.",
+            "Most honest letter: I broke it by rushing."
+          ],
+          "box": {
+            "label": "MAIL ROOM",
+            "text": "If your SPACE bar sticks, clean gently and keep cola away."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "rant-column",
+          "title": "Rant Column",
+          "intro": "Cheeky opinions, zero apology.",
+          "paragraphs": [
+            "Saying old machines are pointless misses the point of learning under constraints.",
+            "The CPC teaches structure, discipline and timing better than many modern toys."
+          ],
+          "bullets": [
+            "Limits sharpen code.",
+            "Byte budgets force design.",
+            "Clarity beats bloat."
+          ],
+          "box": {
+            "label": "RANT",
+            "text": "If your game only works with luck, it is not finished."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "cover-tape-dream",
+          "title": "Cover Tape Dream",
+          "intro": "A fantasy issue stuffed with goodies.",
+          "paragraphs": [
+            "Imagine one tape with a game, an art tool and a utility that saves your week.",
+            "Budget labels proved tiny teams can produce huge joy with tiny memory."
+          ],
+          "bullets": [
+            "One arcade game.",
+            "One coding utility.",
+            "One printable cheat sheet."
+          ],
+          "box": {
+            "label": "NEXT MONTH",
+            "text": "Write in if you want a type-in game special."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "interview-desk",
+          "title": "Interview Desk",
+          "intro": "Firmware talk with a practical wizard.",
+          "paragraphs": [
+            "The pro answer stayed the same: use firmware vectors and avoid brittle hardcoded addresses.",
+            "Compatibility work is not boring; it keeps software alive for decades."
+          ],
+          "bullets": [
+            "Call jumpblocks.",
+            "Document assumptions.",
+            "Prefer clear interfaces."
+          ],
+          "box": {
+            "label": "PRO QUOTE",
+            "text": "Fast code is nice, portable code survives."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "did-you-know-news",
+          "title": "Did You Know?",
+          "intro": "Little facts for big bragging rights.",
+          "paragraphs": [
+            "The CPC keyboard is matrix scanned and tightly linked with the machine sound hardware.",
+            "The mixed-chip design is quirky, but that quirk is where the tricks live."
+          ],
+          "bullets": [
+            "Z80 drives logic.",
+            "CRTC shapes timing.",
+            "Gate Array colours output."
+          ],
+          "box": {
+            "label": "TRIVIA",
+            "text": "Many classic effects come from timing more than raw speed."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "next-month-board",
+          "title": "Next Month Board",
+          "intro": "Plans are bold, deadlines are louder.",
+          "paragraphs": [
+            "We are prepping a joystick stress test and another beginner assembly workshop.",
+            "Reader projects will get a full spotlight if they include notes and source."
+          ],
+          "bullets": [
+            "Hardware clinic.",
+            "Classroom coding pack.",
+            "Reader score league."
+          ],
+          "box": {
+            "label": "TRY THIS",
+            "text": "Send one bug story and one fix that worked."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "classifieds",
+          "title": "Classifieds",
+          "intro": "Swap, buy, sell, brag.",
+          "paragraphs": [
+            "The message board is full of disk boxes, spare cables and heroic claims about perfect joysticks.",
+            "Every advert is short, spicy and probably typed in a hurry."
+          ],
+          "bullets": [
+            "Wanted: sturdy joystick.",
+            "For sale: labelled disk pack.",
+            "Swap: strategy for platform game."
+          ],
+          "box": {
+            "label": "NOTICE",
+            "text": "No links, no hype, just plain text and trust."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "feature-longread",
+          "title": "Feature Long Read",
+          "intro": "Why CPC magazines felt electric.",
+          "paragraphs": [
+            "Magazine culture mixed humour, coding and reader experiments in one loud monthly ritual.",
+            "Kids learned by typing, testing, failing and reading the letters page again."
+          ],
+          "bullets": [
+            "Type-ins taught patience.",
+            "Reviews taught critique.",
+            "Letters built community."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Many coders started from one listing in a magazine."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "editorial-signoff",
+          "title": "Editorial Signoff",
+          "intro": "Keep it curious and keep it kind.",
+          "paragraphs": [
+            "When you share tools and notes, everyone improves and the scene gets stronger.",
+            "If your experiment fails, write what failed and someone else will finish it."
+          ],
+          "bullets": [
+            "Share findings.",
+            "Credit people.",
+            "Keep backups."
+          ],
+          "box": {
+            "label": "EDITOR NOTE",
+            "text": "Smart, cheeky and generous is the AMSHOLE way."
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "CPC Hardware & History",
+      "page_no": 110,
+      "index_intro": "Machines, monitors, drives and decades of practical design.",
+      "index_note": "Frame run: 110b to 110k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "model-family",
+          "title": "Model Family",
+          "intro": "464, 664, 6128: same soul, different loadout.",
+          "paragraphs": [
+            "The 464 brought tape convenience, the 664 introduced built-in disk, and the 6128 pushed memory further.",
+            "All three shared a tidy out-of-box setup that families could actually manage."
+          ],
+          "bullets": [
+            "464: tape era icon.",
+            "664: short but important run.",
+            "6128: the all-rounder."
+          ],
+          "box": {
+            "label": "HISTORY",
+            "text": "Bundled monitor plus power design reduced setup chaos."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "monitor-choices",
+          "title": "Monitor Choices",
+          "intro": "Green screen discipline or full colour punch.",
+          "paragraphs": [
+            "The green monitor made text razor sharp and coding sessions easy on tired eyes.",
+            "Colour display gave games their full personality with bright pen combinations."
+          ],
+          "bullets": [
+            "Green for clarity.",
+            "Colour for games.",
+            "RF TV for convenience."
+          ],
+          "box": {
+            "label": "TIP",
+            "text": "Test both text and sprites before choosing your setup."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "disk-and-amsdos",
+          "title": "Disk and AMSDOS",
+          "intro": "Faster workflow, better iteration.",
+          "paragraphs": [
+            "AMSDOS added disk commands that made development loops shorter and less painful.",
+            "Directory structures and headers reward careful organisation and consistent naming."
+          ],
+          "bullets": [
+            "Use clear filenames.",
+            "Track versions by date.",
+            "Protect finished masters."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Firmware variables keep drive and user state ready for tools."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "plus-range",
+          "title": "Plus Range",
+          "intro": "ASIC extras and cartridge ambitions.",
+          "paragraphs": [
+            "The Plus line added hardware features that opened new visual options for developers.",
+            "Compatibility with earlier software remained a practical concern for most projects."
+          ],
+          "bullets": [
+            "Extra hardware features.",
+            "Different production era.",
+            "Collector interest remains high."
+          ],
+          "box": {
+            "label": "CALL OUT",
+            "text": "Short market life, long conversation."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "expansion-board-m4",
+          "title": "M4 Expansion Board",
+          "intro": "Modern convenience with classic workflow.",
+          "paragraphs": [
+            "M4 command exchange uses a dataport and an acknowledge port for host communication.",
+            "File, network and socket commands are provided through a ROM-level response buffer."
+          ],
+          "bullets": [
+            "Dataport FE00.",
+            "Ack port FC00.",
+            "Response pointer in ROM table."
+          ],
+          "box": {
+            "label": "TECH NOTE",
+            "text": "Read the response pointer, do not hardcode it."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "expansion-ecosystem",
+          "title": "Expansion Ecosystem",
+          "intro": "ROM boards, printers, memory and odd delights.",
+          "paragraphs": [
+            "The expansion scene let users build personal setups from utility-heavy to game-heavy.",
+            "A thoughtful ROM collection turned a home machine into a compact productivity station."
+          ],
+          "bullets": [
+            "ROM tools.",
+            "Printer workflows.",
+            "Memory add-ons."
+          ],
+          "box": {
+            "label": "SCENE NOTE",
+            "text": "Half lab bench, half toy chest."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "timeline",
+          "title": "Scene Timeline",
+          "intro": "From launch splash to modern preservation.",
+          "paragraphs": [
+            "The original boom years built a mountain of software and magazines.",
+            "Later scene work and archives kept games, docs and source alive."
+          ],
+          "bullets": [
+            "Launch era energy.",
+            "Magazine peak.",
+            "Preservation era craft."
+          ],
+          "box": {
+            "label": "REMEMBER",
+            "text": "Backups and notes are cultural preservation."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "collector-checks",
+          "title": "Collector Checks",
+          "intro": "Buy slowly, test calmly.",
+          "paragraphs": [
+            "Check keyboard feel, drive behaviour, cable health and display output before paying.",
+            "A complete working unit often beats a rare but broken machine."
+          ],
+          "bullets": [
+            "Test all keys.",
+            "Check sound channels.",
+            "Inspect drive belt."
+          ],
+          "box": {
+            "label": "BUY SMART",
+            "text": "Patience saves money and repair time."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "service-basics",
+          "title": "Service Basics",
+          "intro": "Maintenance without drama.",
+          "paragraphs": [
+            "Gentle cleaning and proper storage do more than aggressive repair attempts.",
+            "Label repairs and track dates so future troubleshooting is faster."
+          ],
+          "bullets": [
+            "Dry cleaning first.",
+            "Protect from dust.",
+            "Keep a repair log."
+          ],
+          "box": {
+            "label": "WORKSHOP",
+            "text": "Slow careful work beats rushed heroics."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "legacy",
+          "title": "Legacy and Lessons",
+          "intro": "What still matters today.",
+          "paragraphs": [
+            "The CPC story shows that sensible engineering and friendly design can build lasting communities.",
+            "Constraint-based learning remains useful for modern coding education."
+          ],
+          "bullets": [
+            "Practical engineering.",
+            "Accessible learning.",
+            "Long-term community value."
+          ],
+          "box": {
+            "label": "FINAL WORD",
+            "text": "History is useful when it informs better practice."
+          }
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "Games Zone",
+      "page_no": 120,
+      "index_intro": "Arcade thrills, design notes and bragging rights.",
+      "index_note": "Frame run: 120b to 120k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "arcade-blasters",
+          "title": "Arcade Blasters",
+          "intro": "Speed, colour, instant reactions.",
+          "paragraphs": [
+            "Great arcade games reward quick reads and tighter input than flashy intros.",
+            "Mode and palette choices should improve visibility, not just spectacle."
+          ],
+          "bullets": [
+            "Readable bullets.",
+            "Fair hitboxes.",
+            "Strong sound cues."
+          ],
+          "box": {
+            "label": "GAME DESIGN",
+            "text": "One more go is the true success metric."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "adventure-corner",
+          "title": "Adventure Corner",
+          "intro": "Parser brains and map notebooks.",
+          "paragraphs": [
+            "Text adventures build logic habits and reward careful observation.",
+            "Helpful hints beat unfair dead ends when designing your own game."
+          ],
+          "bullets": [
+            "Map your rooms.",
+            "Track key items.",
+            "Write clear clues."
+          ],
+          "box": {
+            "label": "TRY THIS",
+            "text": "Design one puzzle with two valid solutions."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "platform-lab",
+          "title": "Platform Lab",
+          "intro": "Jump arcs decide the mood.",
+          "paragraphs": [
+            "Animation and collision tuning matter more than huge sprite counts.",
+            "Difficulty curves should teach first and challenge second."
+          ],
+          "bullets": [
+            "Predictable jumps.",
+            "Consistent enemy tells.",
+            "Readable hazards."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Players forgive hard levels, not unfair rules."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "strategy-shelf",
+          "title": "Strategy Shelf",
+          "intro": "Thinking games age beautifully.",
+          "paragraphs": [
+            "Turn-based design suits constrained hardware and gives room for deeper systems.",
+            "Good feedback loops make complex rules feel understandable."
+          ],
+          "bullets": [
+            "Clear win goals.",
+            "Transparent numbers.",
+            "Short turn cycles."
+          ],
+          "box": {
+            "label": "NOTE",
+            "text": "Teach your systems in the first two turns."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "pd-picks",
+          "title": "Public Domain Picks",
+          "intro": "Treasure hunt energy.",
+          "paragraphs": [
+            "Public domain collections mixed rough experiments with genuine hidden gems.",
+            "Curation and reader recommendations made discovery faster."
+          ],
+          "bullets": [
+            "Check utilities too.",
+            "Read notes before run.",
+            "Credit original authors."
+          ],
+          "box": {
+            "label": "SCENE RULE",
+            "text": "Share responsibly and preserve metadata."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "two-player-chaos",
+          "title": "Two Player Chaos",
+          "intro": "Friendly rivalry and loud rooms.",
+          "paragraphs": [
+            "Balanced controls and clear scoring keep multiplayer sessions fun.",
+            "Alternating turns still works brilliantly when rounds are short."
+          ],
+          "bullets": [
+            "Fast restart loop.",
+            "Visible score board.",
+            "Rule set in one screen."
+          ],
+          "box": {
+            "label": "HOUSE RULE",
+            "text": "Winner keeps score, loser makes tea."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "hidden-gems",
+          "title": "Hidden Gems",
+          "intro": "Budget boxes full of surprises.",
+          "paragraphs": [
+            "Some low-price releases had inventive mechanics and memorable art direction.",
+            "Trying odd genres often reveals your next favourite."
+          ],
+          "bullets": [
+            "Read mini reviews.",
+            "Try weird covers.",
+            "Give each game ten minutes."
+          ],
+          "box": {
+            "label": "GEM HUNT",
+            "text": "Underhyped titles often take bigger risks."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "make-a-game",
+          "title": "Make a Game",
+          "intro": "Small scope, full finish.",
+          "paragraphs": [
+            "Start with one mechanic, one screen and one clear goal.",
+            "Prototype controls first, then layer visuals and sound."
+          ],
+          "bullets": [
+            "Build tiny.",
+            "Test daily.",
+            "Ship version one."
+          ],
+          "box": {
+            "label": "PROJECT",
+            "text": "Finished and simple beats endless and broken."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "hiscore-club",
+          "title": "Hiscore Club",
+          "intro": "Honour system and maximum bragging.",
+          "paragraphs": [
+            "Record game, score, date and mode so runs can be compared fairly.",
+            "Friendly taunts are welcome; fake scores are not."
+          ],
+          "bullets": [
+            "Log date.",
+            "Log settings.",
+            "Play fair."
+          ],
+          "box": {
+            "label": "LEAGUE NOTE",
+            "text": "Honest records build better competition."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "design-retrospective",
+          "title": "Design Retrospective",
+          "intro": "What classic games still teach.",
+          "paragraphs": [
+            "Strong games communicate rules instantly and reward learning patterns over luck.",
+            "Tight constraints often produced very readable design decisions."
+          ],
+          "bullets": [
+            "Clarity first.",
+            "Feedback first.",
+            "Rhythm first."
+          ],
+          "box": {
+            "label": "WRAP UP",
+            "text": "Good design remains good long after hardware shifts."
+          }
+        }
+      ]
+    },
+    {
+      "id": "internals",
+      "name": "CPC Internals Deep Dive",
+      "page_no": 130,
+      "index_intro": "Registers, timing and hardware behaviour in plain language.",
+      "index_note": "Frame run: 130b to 130k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "z80-memory-map",
+          "title": "Z80 Memory Map",
+          "intro": "The 64K view from the CPU.",
+          "paragraphs": [
+            "The Z80 sees address space from 0000h to FFFFh, with ROM and RAM visibility controlled by hardware state.",
+            "Treat memory layout as a map before coding, especially when mixing firmware and custom routines."
+          ],
+          "bullets": [
+            "0000-3FFF often lower ROM.",
+            "4000-BFFF core RAM.",
+            "C000-FFFF may expose upper ROM."
+          ],
+          "box": {
+            "label": "TABLE",
+            "text": "Sketch your active map per routine to avoid collisions."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "rom-ram-banking",
+          "title": "ROM and RAM Banking",
+          "intro": "Visibility rules make or break tools.",
+          "paragraphs": [
+            "Banked memory on expanded models allows large buffers and data banks beyond the base visible window.",
+            "Safe code keeps stack and critical variables in stable regions during bank switches."
+          ],
+          "bullets": [
+            "Plan bank ownership.",
+            "Switch deliberately.",
+            "Restore expected state."
+          ],
+          "box": {
+            "label": "RULE",
+            "text": "Document bank usage, then enforce it."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "gate-array-behaviour",
+          "title": "Gate Array Behaviour",
+          "intro": "Colour control and timing interplay.",
+          "paragraphs": [
+            "The Gate Array handles palette and display mode control and interacts with timing-sensitive effects.",
+            "Cycle-accurate writes are essential when producing stable raster colour changes."
+          ],
+          "bullets": [
+            "Pen and border updates.",
+            "Mode control bits.",
+            "Timing-sensitive output."
+          ],
+          "box": {
+            "label": "LAB NOTE",
+            "text": "One missed cycle can shift an entire bar."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "crtc-registers",
+          "title": "CRTC Registers and Timing",
+          "intro": "Geometry from register values.",
+          "paragraphs": [
+            "CRTC registers control horizontal and vertical totals, displayed regions and start addresses.",
+            "Different CRTC variants can differ in edge behaviour, so testing across hardware matters."
+          ],
+          "bullets": [
+            "R0/R1 shape line timing.",
+            "R12/R13 set start address.",
+            "Variant quirks are real."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Minor register shifts can create major visual changes."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "interrupts",
+          "title": "Interrupt Rhythm",
+          "intro": "Periodic events for stable updates.",
+          "paragraphs": [
+            "The CPC interrupt flow supports regular tasks such as music stepping and split timing checks.",
+            "Keep handlers short and move heavy logic to the main loop using flags."
+          ],
+          "bullets": [
+            "Short handlers.",
+            "Shared state flags.",
+            "Predictable update cadence."
+          ],
+          "box": {
+            "label": "PRACTICE",
+            "text": "Measure jitter before rewriting code paths."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "raster-tricks",
+          "title": "Raster Tricks",
+          "intro": "Colour changes mid-frame.",
+          "paragraphs": [
+            "Raster bars and split screens rely on precise timing of register and palette updates.",
+            "Debugging with border colour markers helps locate drift quickly."
+          ],
+          "bullets": [
+            "Use cycle budgets.",
+            "Mark timing visually.",
+            "Retest after every tweak."
+          ],
+          "box": {
+            "label": "TIP",
+            "text": "Lock one effect before adding the next."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "ay-sound",
+          "title": "AY-3-8912 Sound Internals",
+          "intro": "Three channels, noise and envelopes.",
+          "paragraphs": [
+            "The AY chip exposes tone periods, mixer controls, noise and envelopes for expressive audio.",
+            "Smart channel allocation keeps effects clear without destroying your melody line."
+          ],
+          "bullets": [
+            "Tone channels A/B/C.",
+            "Noise for percussion.",
+            "Envelope shapes for movement."
+          ],
+          "box": {
+            "label": "AUDIO TABLE",
+            "text": "Track register writes to debug stuck notes."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "keyboard-matrix",
+          "title": "Keyboard Matrix",
+          "intro": "Rows, columns and debounce discipline.",
+          "paragraphs": [
+            "Keyboard input is matrix scanned, so robust polling and debounce logic matter.",
+            "Control systems should support held keys and diagonals without accidental repeats."
+          ],
+          "bullets": [
+            "Scan predictably.",
+            "Debounce repeats.",
+            "Test edge combos."
+          ],
+          "box": {
+            "label": "INPUT NOTE",
+            "text": "Fast games live or die on clean controls."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "firmware-vectors",
+          "title": "Firmware Vectors",
+          "intro": "Use the jumpblocks wisely.",
+          "paragraphs": [
+            "Firmware vector calls abstract lower-level implementation details and improve portability.",
+            "When extending with hardware like M4, keep interfaces explicit and read system pointers dynamically."
+          ],
+          "bullets": [
+            "Prefer vector entry points.",
+            "Avoid magic addresses.",
+            "Read current config pointers."
+          ],
+          "box": {
+            "label": "REFERENCE",
+            "text": "Compatibility is part of technical quality."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "internals-workbench",
+          "title": "Internals Workbench",
+          "intro": "How to run practical experiments.",
+          "paragraphs": [
+            "Build tiny repeatable tests for memory mapping, timing and sound behaviour.",
+            "Record register values, machine variant and observed output in a simple table."
+          ],
+          "bullets": [
+            "One variable at a time.",
+            "Keep logs.",
+            "Compare across units."
+          ],
+          "box": {
+            "label": "WORK METHOD",
+            "text": "Good notes turn hacks into knowledge."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tips",
+      "name": "Tips and Tricks",
+      "page_no": 140,
+      "index_intro": "Sharper workflow, fewer headaches, better results.",
+      "index_note": "Frame run: 140b to 140k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "disk-speed",
+          "title": "Disk Speed Habits",
+          "intro": "Organisation saves minutes every hour.",
+          "paragraphs": [
+            "Group related assets and source files so your iteration loop stays fast.",
+            "A clean directory plan is a performance tool, not just housekeeping."
+          ],
+          "bullets": [
+            "Name by module.",
+            "Keep archive disks.",
+            "Store release builds separately."
+          ],
+          "box": {
+            "label": "TIP",
+            "text": "Two backup copies beat one heroic apology."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "basic-speed",
+          "title": "BASIC Speed-ups",
+          "intro": "Trim waste before rewriting.",
+          "paragraphs": [
+            "Move repeated calculations outside loops and reduce unnecessary redraws.",
+            "Optimise hotspots you measured, not the entire listing at random."
+          ],
+          "bullets": [
+            "Precompute tables.",
+            "Cut repeated work.",
+            "Measure frame time."
+          ],
+          "box": {
+            "label": "RULE",
+            "text": "Profile first, optimise second."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "memory-savers",
+          "title": "Memory Savers",
+          "intro": "Every byte gets a job.",
+          "paragraphs": [
+            "Shared buffers and compact data formats free space for gameplay and polish.",
+            "Bit packing for flags can remove surprising amounts of overhead."
+          ],
+          "bullets": [
+            "Reuse buffers.",
+            "Pack booleans into bits.",
+            "Avoid duplicate strings."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Simple compression can rescue a near-finished build."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "debugging-routine",
+          "title": "Debugging Routine",
+          "intro": "Calm method beats frantic edits.",
+          "paragraphs": [
+            "Shrink bugs into tiny reproducible cases, then test one change at a time.",
+            "Write assumptions down; most hard bugs are hidden assumptions."
+          ],
+          "bullets": [
+            "Reproduce first.",
+            "Isolate variables.",
+            "Log observed values."
+          ],
+          "box": {
+            "label": "WORKFLOW",
+            "text": "Slow is smooth, smooth is fast."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "sprite-practice",
+          "title": "Sprite Practice",
+          "intro": "Readable motion over maximal detail.",
+          "paragraphs": [
+            "Masking and clipping discipline keeps rendering clean and efficient.",
+            "Pre-shifted assets can trade memory for valuable CPU time."
+          ],
+          "bullets": [
+            "Clip early.",
+            "Mask cleanly.",
+            "Animate key poses first."
+          ],
+          "box": {
+            "label": "ART TIP",
+            "text": "Silhouette clarity wins at game speed."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "sound-polish",
+          "title": "Sound Polish",
+          "intro": "Small details improve feel.",
+          "paragraphs": [
+            "Use short cues for action feedback and reserve melody space for identity.",
+            "Dynamic channel priority prevents effects from swallowing important tones."
+          ],
+          "bullets": [
+            "Reserve one effect channel.",
+            "Keep motifs short.",
+            "Use silence for contrast."
+          ],
+          "box": {
+            "label": "AUDIO NOTE",
+            "text": "If every sound is loud, none are special."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "input-shortcuts",
+          "title": "Input Shortcuts",
+          "intro": "Comfort increases speed.",
+          "paragraphs": [
+            "Map common editor actions to nearby keys and display hints on-screen.",
+            "Offer redefine controls to support different users and setups."
+          ],
+          "bullets": [
+            "Keep mappings consistent.",
+            "Show key legend.",
+            "Test with beginners."
+          ],
+          "box": {
+            "label": "UX",
+            "text": "Predictable controls reduce support problems."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "safe-maintenance",
+          "title": "Safe Maintenance",
+          "intro": "Protect the machine while fixing it.",
+          "paragraphs": [
+            "Power down fully before opening hardware and avoid force on old plastics.",
+            "Clean contacts gently and store media away from dust and magnets."
+          ],
+          "bullets": [
+            "Power off first.",
+            "Handle cables gently.",
+            "Label repaired units."
+          ],
+          "box": {
+            "label": "SAFETY",
+            "text": "Rushing repairs often creates new faults."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "cheat-ethics",
+          "title": "Cheat Ethics",
+          "intro": "Fun tools, fair play.",
+          "paragraphs": [
+            "Cheats can be useful for exploration and testing, especially while learning level flow.",
+            "Competition scores should stay honest so leaderboards mean something."
+          ],
+          "bullets": [
+            "Use cheats for study.",
+            "Declare assisted runs.",
+            "Keep league runs clean."
+          ],
+          "box": {
+            "label": "CODE OF PLAY",
+            "text": "Honest wins feel better and last longer."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "project-checklist",
+          "title": "Project Checklist",
+          "intro": "A tiny list that prevents giant pain.",
+          "paragraphs": [
+            "Define scope, plan milestones and test each milestone before adding new features.",
+            "Release early and gather feedback while changes are still cheap."
+          ],
+          "bullets": [
+            "Scope.",
+            "Milestones.",
+            "Release notes."
+          ],
+          "box": {
+            "label": "WRAP",
+            "text": "Completion is a skill you can practise."
+          }
+        }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Learn to Code",
+      "page_no": 150,
+      "index_intro": "Beginner friendly coding lessons with playful examples.",
+      "index_note": "Frame run: 150b to 150k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "variables",
+          "title": "Variables",
+          "intro": "Named boxes for game state.",
+          "paragraphs": [
+            "Use clear names for score, lives and level so logic reads like plain speech.",
+            "Set default values at startup to avoid mysterious behaviour later."
+          ],
+          "bullets": [
+            "Pick clear names.",
+            "Set initial values.",
+            "Print while testing."
+          ],
+          "box": {
+            "label": "BEGINNER TIP",
+            "text": "Good names are free documentation."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "loops",
+          "title": "Loops",
+          "intro": "Repeat with purpose.",
+          "paragraphs": [
+            "FOR loops are great for counted tasks; condition loops are great for ongoing states.",
+            "Always update state inside loops so exit conditions can actually be reached."
+          ],
+          "bullets": [
+            "Know your exit condition.",
+            "Keep loop body simple.",
+            "Avoid hidden side effects."
+          ],
+          "box": {
+            "label": "TRY THIS",
+            "text": "Write a loop that prints a tiny progress bar."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "if-then",
+          "title": "If and Then",
+          "intro": "Rules become game behaviour.",
+          "paragraphs": [
+            "Conditional logic drives collisions, scoring and menu flow.",
+            "Read each condition aloud; if it sounds confusing, simplify it."
+          ],
+          "bullets": [
+            "Handle normal case.",
+            "Handle edge case.",
+            "Handle impossible case safely."
+          ],
+          "box": {
+            "label": "CHECK",
+            "text": "Test min, max and weird inputs."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "arrays-data",
+          "title": "Arrays and Data",
+          "intro": "Structured storage for levels and stats.",
+          "paragraphs": [
+            "Arrays store repeated values efficiently and keep related data grouped.",
+            "Data tables are ideal for maps, enemy waves and score thresholds."
+          ],
+          "bullets": [
+            "Define layout first.",
+            "Track index bounds.",
+            "Document element meaning."
+          ],
+          "box": {
+            "label": "DATA BOX",
+            "text": "Table-driven design keeps code tidy."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "graphics-basics",
+          "title": "Graphics Basics",
+          "intro": "Choose the right mode for the job.",
+          "paragraphs": [
+            "Mode choices affect colour count, detail and readability.",
+            "Redraw only changed areas when possible to reduce flicker and cost."
+          ],
+          "bullets": [
+            "Mode 0: bold art.",
+            "Mode 1: balanced.",
+            "Mode 2: crisp text."
+          ],
+          "box": {
+            "label": "ART START",
+            "text": "Start readable, then add flair."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "sound-basics",
+          "title": "Sound Basics",
+          "intro": "Melody, rhythm and response cues.",
+          "paragraphs": [
+            "Simple motifs and short effects make games feel alive and responsive.",
+            "Match tempo to gameplay pace and keep cue meanings consistent."
+          ],
+          "bullets": [
+            "Write a main motif.",
+            "Add two effect cues.",
+            "Balance levels by ear."
+          ],
+          "box": {
+            "label": "LISTEN",
+            "text": "If a cue confuses players, redesign it."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "procedures",
+          "title": "Procedures",
+          "intro": "Break work into reusable blocks.",
+          "paragraphs": [
+            "Modular code lets you test features independently and reuse logic safely.",
+            "Name routines after actions so call sites read naturally."
+          ],
+          "bullets": [
+            "One routine, one purpose.",
+            "Keep inputs explicit.",
+            "Return cleanly."
+          ],
+          "box": {
+            "label": "STRUCTURE",
+            "text": "Small routines make big projects manageable."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "asm-starter",
+          "title": "Assembler Starter",
+          "intro": "Speed when you need it.",
+          "paragraphs": [
+            "Begin with tiny routines and call them from BASIC while measuring real benefit.",
+            "Comment register usage so integration bugs are easier to spot."
+          ],
+          "bullets": [
+            "Start tiny.",
+            "Measure results.",
+            "Preserve required registers."
+          ],
+          "box": {
+            "label": "MACHINE CODE",
+            "text": "Hybrid BASIC plus ASM can be ideal."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "mini-project",
+          "title": "Mini Project",
+          "intro": "Build a one-screen dodge game.",
+          "paragraphs": [
+            "Implement movement, hazards, score and lives before adding polish.",
+            "Ship a complete tiny game, then iterate from feedback."
+          ],
+          "bullets": [
+            "Core loop first.",
+            "Collision second.",
+            "Polish last."
+          ],
+          "box": {
+            "label": "GOAL",
+            "text": "Completion creates confidence."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "learning-plan",
+          "title": "Learning Plan",
+          "intro": "A week-by-week coding path.",
+          "paragraphs": [
+            "Split learning into focused sessions for logic, graphics, sound and cleanup.",
+            "Review old code every week and refactor one small area."
+          ],
+          "bullets": [
+            "Plan sessions.",
+            "Track progress.",
+            "Share your builds."
+          ],
+          "box": {
+            "label": "MOTTO",
+            "text": "Steady practice beats heroic bursts."
+          }
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "name": "Art, Graphics and Sound",
+      "page_no": 160,
+      "index_intro": "Visual style, music craft and presentation polish.",
+      "index_note": "Frame run: 160b to 160k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "mode0-art",
+          "title": "Mode 0 Pixel Art",
+          "intro": "Bold blocks with strong personality.",
+          "paragraphs": [
+            "Chunky pixels reward clear silhouettes and careful colour contrast.",
+            "Strong shape language reads better than tiny detail clutter."
+          ],
+          "bullets": [
+            "Block out silhouette.",
+            "Add key highlights.",
+            "Test at game speed."
+          ],
+          "box": {
+            "label": "ART RULE",
+            "text": "Readable beats ornate every time."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "palette-tricks",
+          "title": "Palette Tricks",
+          "intro": "Mood changes without redrawing.",
+          "paragraphs": [
+            "Palette swaps can signal danger, nighttime or power states cheaply.",
+            "Consistent colour semantics help players read status quickly."
+          ],
+          "bullets": [
+            "Reserve warning colours.",
+            "Test contrast.",
+            "Avoid noisy combinations."
+          ],
+          "box": {
+            "label": "TIP",
+            "text": "Border colour can reinforce scene mood."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "charset-magic",
+          "title": "Charset Magic",
+          "intro": "Tile graphics through redefined characters.",
+          "paragraphs": [
+            "Custom character sets are memory-efficient for UI and map-like displays.",
+            "Consistent tile rules simplify editing and bug fixing."
+          ],
+          "bullets": [
+            "Define tile set first.",
+            "Reuse motifs.",
+            "Keep text legible."
+          ],
+          "box": {
+            "label": "UI BOX",
+            "text": "A good font is part of game feel."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "scroller-style",
+          "title": "Scroller Style",
+          "intro": "Movement, rhythm and cheeky text.",
+          "paragraphs": [
+            "Scrollers work best with short sharp lines and deliberate pacing.",
+            "Synchronising text rhythm with music accents adds energy."
+          ],
+          "bullets": [
+            "Keep lines short.",
+            "Use clear spacing.",
+            "Loop gracefully."
+          ],
+          "box": {
+            "label": "SCENE STYLE",
+            "text": "A tiny joke can carry a long scroller."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "ay-music-basics",
+          "title": "AY Music Basics",
+          "intro": "Arrange three channels with intent.",
+          "paragraphs": [
+            "Treat channels as roles: lead, support and pulse or bass depending on tempo.",
+            "Arpeggios and envelope motion can imply richness with minimal cost."
+          ],
+          "bullets": [
+            "Plan channel roles.",
+            "Use repeating motifs.",
+            "Leave space for effects."
+          ],
+          "box": {
+            "label": "MUSIC",
+            "text": "Clarity beats dense note spam."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "drum-illusions",
+          "title": "Drum Illusions",
+          "intro": "Noise plus shape equals punch.",
+          "paragraphs": [
+            "Noise bursts and fast pitch movement can create convincing rhythm accents.",
+            "Small timing offsets prevent patterns from feeling robotic."
+          ],
+          "bullets": [
+            "Short noise burst.",
+            "Pitch drop for kick feel.",
+            "Vary timing slightly."
+          ],
+          "box": {
+            "label": "RHYTHM LAB",
+            "text": "Variation creates life."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "demo-layout",
+          "title": "Demo Layout",
+          "intro": "Sequence effects like a story.",
+          "paragraphs": [
+            "Open with clarity, escalate with contrast and finish with a memorable signature.",
+            "Transitions should be intentional and quick to keep momentum."
+          ],
+          "bullets": [
+            "Hook quickly.",
+            "Escalate cleanly.",
+            "Finish strong."
+          ],
+          "box": {
+            "label": "STAGING",
+            "text": "Order matters as much as effects."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "text-fx",
+          "title": "Text FX",
+          "intro": "Readable pages with flavour.",
+          "paragraphs": [
+            "Colour headers and separators guide readers through dense information.",
+            "Short pull quotes and callout boxes maintain pace."
+          ],
+          "bullets": [
+            "Use headings.",
+            "Use separators.",
+            "Use callout boxes."
+          ],
+          "box": {
+            "label": "DID YOU KNOW?",
+            "text": "Good layout reduces support questions."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "scene-etiquette",
+          "title": "Scene Etiquette",
+          "intro": "Compete hard, credit harder.",
+          "paragraphs": [
+            "Always credit coders, artists and musicians clearly in releases and docs.",
+            "Constructive critique helps everyone improve without killing morale."
+          ],
+          "bullets": [
+            "Credit creators.",
+            "Share sources when possible.",
+            "Respect collaboration."
+          ],
+          "box": {
+            "label": "CODE OF SCENE",
+            "text": "Skill and respect can coexist."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "portfolio-page",
+          "title": "Portfolio Page",
+          "intro": "Show work like a pro.",
+          "paragraphs": [
+            "Present art and music snippets with short notes describing tools and constraints.",
+            "A clean archive helps future collaborators understand your workflow."
+          ],
+          "bullets": [
+            "Label versions.",
+            "Explain constraints.",
+            "Save source assets."
+          ],
+          "box": {
+            "label": "CAREER TIP",
+            "text": "Process notes are as valuable as output."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fun",
+      "name": "Fun Stuff",
+      "page_no": 170,
+      "index_intro": "Quizzes, jokes, fake adverts and letters.",
+      "index_note": "Frame run: 170b to 170k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "quiz-round-one",
+          "title": "Quiz Round One",
+          "intro": "Six quick questions for hardware nerds.",
+          "paragraphs": [
+            "Test your memory on models, chips and display modes.",
+            "No calculators, no peeking, no sibling hint network."
+          ],
+          "bullets": [
+            "Model question.",
+            "Chip question.",
+            "Mode question."
+          ],
+          "box": {
+            "label": "QUIZ",
+            "text": "Answers appear later in this section."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "quiz-round-two",
+          "title": "Quiz Round Two",
+          "intro": "Now the spicy technical bits.",
+          "paragraphs": [
+            "This round covers ports, interrupts and practical coding habits.",
+            "Award yourself extra points for explaining why, not just what."
+          ],
+          "bullets": [
+            "M4 dataport.",
+            "Interrupt entry.",
+            "Memory mapping basics."
+          ],
+          "box": {
+            "label": "BONUS",
+            "text": "Write one answer in plain language for a friend."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "quiz-answers",
+          "title": "Quiz Answers",
+          "intro": "Mark fairly and laugh loudly.",
+          "paragraphs": [
+            "If you got most answers right, congratulations: you are officially deep in CPC lore.",
+            "If not, that is fine; curiosity beats scoreboards."
+          ],
+          "bullets": [
+            "Check reasoning.",
+            "Share tips.",
+            "Retry next issue."
+          ],
+          "box": {
+            "label": "RESULTS",
+            "text": "Knowledge grows fastest when shared."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "joke-zone",
+          "title": "Joke Zone",
+          "intro": "Certified groan material.",
+          "paragraphs": [
+            "Why did the coder fear line ten? Because line ten had no comment and bad intent.",
+            "What is the official fuel of debugging? Tea and stubbornness."
+          ],
+          "bullets": [
+            "One-liners only.",
+            "No cruel jokes.",
+            "Maximum groan."
+          ],
+          "box": {
+            "label": "JOKE POLICY",
+            "text": "If someone snorts tea, success."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "letters-page",
+          "title": "Letters Page",
+          "intro": "Reader wisdom and chaos.",
+          "paragraphs": [
+            "Questions this month include game balance, coding confidence and best beginner projects.",
+            "Most useful answer: start tiny, finish tiny, then grow."
+          ],
+          "bullets": [
+            "Print reader tips.",
+            "Highlight common mistakes.",
+            "Celebrate small wins."
+          ],
+          "box": {
+            "label": "LETTERS",
+            "text": "Handwritten notes always get extra style points."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "fake-ad-break",
+          "title": "Fake Ad Break",
+          "intro": "Totally serious imaginary products.",
+          "paragraphs": [
+            "Presenting the Turbo Grip Handle, now with almost trustworthy diagonals.",
+            "Also available: the Anti-Waiting Chair for dramatic tape loads."
+          ],
+          "bullets": [
+            "No real warranty.",
+            "No real batteries.",
+            "Real laughs only."
+          ],
+          "box": {
+            "label": "AD COPY",
+            "text": "Educational claims are entirely theatrical."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "horoscope",
+          "title": "8-Bit Horoscope",
+          "intro": "Mystical nonsense with practical advice.",
+          "paragraphs": [
+            "Keyboard sign: you will find a bug and name it politely.",
+            "Disk sign: you will finally make that backup you keep postponing."
+          ],
+          "bullets": [
+            "Lucky number: 6128.",
+            "Lucky colour: cyan.",
+            "Lucky snack: biscuit."
+          ],
+          "box": {
+            "label": "COSMIC TIP",
+            "text": "Hydrate before debugging."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "top-ten-names",
+          "title": "Top Ten Team Names",
+          "intro": "Ridiculous and magnificent.",
+          "paragraphs": [
+            "This month includes Raster Rascals, ROM Raiders and The Syntax Survivors.",
+            "Vote with your keyboard and an unreasonable level of enthusiasm."
+          ],
+          "bullets": [
+            "Keep it friendly.",
+            "Keep it nerdy.",
+            "Keep it printable."
+          ],
+          "box": {
+            "label": "VOTE",
+            "text": "Shouting at the monitor is optional but encouraged."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "next-issue-tease",
+          "title": "Next Issue Tease",
+          "intro": "Future chaos preview.",
+          "paragraphs": [
+            "Expect a giant internals chart, classroom projects and another big reader challenge.",
+            "Best submissions get spotlight space and eternal bragging rights."
+          ],
+          "bullets": [
+            "Internals chart.",
+            "School project pack.",
+            "Reader challenge winners."
+          ],
+          "box": {
+            "label": "TEASER",
+            "text": "Bring your wildest but testable ideas."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "fun-signoff",
+          "title": "Fun Signoff",
+          "intro": "Stay cheerful, stay curious.",
+          "paragraphs": [
+            "Fun pages are silly on purpose, but the community spirit behind them is serious.",
+            "Keep sending jokes, quizzes and letters for the next run."
+          ],
+          "bullets": [
+            "Send ideas.",
+            "Credit contributors.",
+            "Keep it kind."
+          ],
+          "box": {
+            "label": "BYE FOR NOW",
+            "text": "See you next issue, same loud colours."
+          }
+        }
+      ]
+    },
+    {
+      "id": "parents",
+      "name": "Parents and Teachers",
+      "page_no": 180,
+      "index_intro": "How the CPC supports learning at home and school.",
+      "index_note": "Frame run: 180b to 180k.",
+      "pages": [
+        {
+          "frame_id": "b",
+          "slug": "why-it-works",
+          "title": "Why It Works",
+          "intro": "Simple machine, strong learning outcomes.",
+          "paragraphs": [
+            "Children can see direct cause and effect between code and result very quickly.",
+            "Constraint-rich environments build planning, patience and debugging habits."
+          ],
+          "bullets": [
+            "Immediate feedback.",
+            "Low distraction.",
+            "Strong logic practice."
+          ],
+          "box": {
+            "label": "EDU NOTE",
+            "text": "Making beats consuming for long-term skill."
+          }
+        },
+        {
+          "frame_id": "c",
+          "slug": "classroom-setup",
+          "title": "Classroom Setup",
+          "intro": "Pair programming and rotating roles.",
+          "paragraphs": [
+            "One learner types while another reviews, then they swap every short interval.",
+            "Visible goals and short demos keep sessions focused and energetic."
+          ],
+          "bullets": [
+            "Coder and reviewer roles.",
+            "Short challenge cycles.",
+            "Public progress board."
+          ],
+          "box": {
+            "label": "PRACTICE",
+            "text": "Frequent swaps improve attention."
+          }
+        },
+        {
+          "frame_id": "d",
+          "slug": "budgeting",
+          "title": "Budgeting",
+          "intro": "Plan costs before buying.",
+          "paragraphs": [
+            "Allocate funds for tested hardware, spare media and simple maintenance items.",
+            "A shared lab setup often lowers cost per student significantly."
+          ],
+          "bullets": [
+            "Tested units first.",
+            "Spare cable budget.",
+            "Annual maintenance line."
+          ],
+          "box": {
+            "label": "FINANCE TIP",
+            "text": "Predictable upkeep beats emergency repairs."
+          }
+        },
+        {
+          "frame_id": "e",
+          "slug": "safe-habits",
+          "title": "Safe Habits",
+          "intro": "Respect the kit and the room.",
+          "paragraphs": [
+            "No drinks near machines, clean shutdowns and labelled disks reduce accidents.",
+            "Shared responsibility routines also teach teamwork and care."
+          ],
+          "bullets": [
+            "Dry desks.",
+            "Label media.",
+            "Store hardware properly."
+          ],
+          "box": {
+            "label": "CLASS RULE",
+            "text": "Carefulness is part of computing literacy."
+          }
+        },
+        {
+          "frame_id": "f",
+          "slug": "project-ideas",
+          "title": "Project Ideas",
+          "intro": "Cross-subject tasks with coding.",
+          "paragraphs": [
+            "Math quizzes, history timelines and science simulations all fit the CPC classroom model.",
+            "Small scope with clear deadlines keeps delivery realistic."
+          ],
+          "bullets": [
+            "Math game.",
+            "History scroller.",
+            "Science logger simulation."
+          ],
+          "box": {
+            "label": "TEACHER TOOL",
+            "text": "Coding projects can support many subjects."
+          }
+        },
+        {
+          "frame_id": "g",
+          "slug": "coding-clubs",
+          "title": "Coding Clubs",
+          "intro": "Weekly rhythm beats marathon sessions.",
+          "paragraphs": [
+            "A short weekly club sustains momentum and gives time for reflection between meetings.",
+            "Role rotation helps each learner experience design, coding and testing."
+          ],
+          "bullets": [
+            "Set weekly goals.",
+            "Rotate roles.",
+            "Showcase progress monthly."
+          ],
+          "box": {
+            "label": "CLUB NOTE",
+            "text": "Consistency creates confident learners."
+          }
+        },
+        {
+          "frame_id": "h",
+          "slug": "game-evaluation",
+          "title": "Game Evaluation",
+          "intro": "Teach critique through play.",
+          "paragraphs": [
+            "Ask learners to evaluate clarity, fairness and feedback in the games they play.",
+            "Structured critique improves both analysis and future project quality."
+          ],
+          "bullets": [
+            "Clear goals?",
+            "Fair challenge?",
+            "Readable feedback?"
+          ],
+          "box": {
+            "label": "ASSESSMENT",
+            "text": "Explain your judgement with evidence."
+          }
+        },
+        {
+          "frame_id": "i",
+          "slug": "history-links",
+          "title": "History Links",
+          "intro": "Context for modern computing.",
+          "paragraphs": [
+            "The CPC era shows how distribution, constraints and community shaped software practice.",
+            "Students can compare older workflows with modern tools to understand fundamentals."
+          ],
+          "bullets": [
+            "Distribution methods.",
+            "Design constraints.",
+            "Community publishing."
+          ],
+          "box": {
+            "label": "HISTORY",
+            "text": "Past constraints explain many modern patterns."
+          }
+        },
+        {
+          "frame_id": "j",
+          "slug": "buying-checklist",
+          "title": "Buying Checklist",
+          "intro": "Practical pre-purchase checks.",
+          "paragraphs": [
+            "Verify boot behaviour, keyboard response, display output and drive movement.",
+            "Ask for repair history and storage conditions when possible."
+          ],
+          "bullets": [
+            "Boot test.",
+            "Input test.",
+            "Audio and drive test."
+          ],
+          "box": {
+            "label": "CHECKLIST",
+            "text": "Document serials and service notes."
+          }
+        },
+        {
+          "frame_id": "k",
+          "slug": "parents-signoff",
+          "title": "Parents Signoff",
+          "intro": "Support curiosity with structure.",
+          "paragraphs": [
+            "Encourage experimentation while setting clear routines for safety and documentation.",
+            "Celebrate persistence and clear thinking, not just final polish."
+          ],
+          "bullets": [
+            "Routine matters.",
+            "Documentation matters.",
+            "Encouragement matters."
+          ],
+          "box": {
+            "label": "FINAL NOTE",
+            "text": "Learning to debug is learning to think."
+          }
+        }
+      ]
+    }
+  ],
+  "help": {
+    "title": "Help, About and Credits",
+    "intro": "Navigation and service notes.",
+    "paragraphs": [
+      "Use number keys on menu and section index frames to jump by page number.",
+      "0 always returns to the main index page, and # goes to this help page where routing tables apply.",
+      "Article frames are designed for simple reading with safe Telstar markup and CRLF line endings."
+    ],
+    "credits": [
+      "AMSHOLE is a fictional CPC fan magazine service.",
+      "Technical notes are remixed from local repository documents including firmware and M4 developer material.",
+      "Public reference knowledge from classic CPC documentation, community summaries and encyclopedia-style sources.",
+      "No external links are shown in-frame to keep pages clean and period-flavoured."
+    ]
+  },
+  "intro_page": {
+    "page_no": 1,
+    "frame_id": "a",
+    "title": "CPC Mosaic Intro",
+    "lines": [
+      "[Y]WELCOME TO AMSHOLE",
+      "[c][m.]",
+      "[y[      ________________________      ]]",
+      "[g[     /   AMSTRAD CPC 6128    \\     ]]",
+      "[c[    /__________________________\\    ]]",
+      "[b[    | [] [] [] [] [] [] [] [] |    ]]",
+      "[m[    | [] [] [] [] [] [] [] [] |    ]]",
+      "[w[    |__________________________|    ]]",
+      "[y[    |   .------------------.   |    ]]",
+      "[c[    |   | READY            |   |    ]]",
+      "[g[    |   '------------------'   |    ]]",
+      "[m[    |__________________________|    ]]",
+      "[c][m-]",
+      "[W]A 1980S CPC FAN SERVICE",
+      "[W]PRESS 0 FOR MAIN INDEX",
+      "[W]PRESS # FOR HELP"
+    ]
+  }
+}

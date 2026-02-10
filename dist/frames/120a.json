@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 120,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]Games Zone Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Arcade thrills, design notes and\r\n[W]bragging rights.\r\n[G]Frame run: 120b to 120k.\r\n[c][m.]\r\n[Y]B Arcade Blasters\r\n[Y]C Adventure Corner\r\n[Y]D Platform Lab\r\n[Y]E Strategy Shelf\r\n[Y]F Public Domain Picks\r\n[Y]G Two Player Chaos\r\n[Y]H Hidden Gems\r\n[Y]I Make a Game\r\n[Y]J Hiscore Club\r\n[Y]K Design Retrospective\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

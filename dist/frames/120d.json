@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 120,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Platform Lab\r\n[W]Jump arcs decide the mood.\r\n[c][m.]\r\n[W]Animation and collision tuning matter\r\n[W]more than huge sprite counts.\r\n[W]Difficulty curves should teach first\r\n[W]and challenge second.\r\n[c][m.]\r\n[G]- Predictable jumps.\r\n[G]- Consistent enemy tells.\r\n[G]- Readable hazards.\r\n[m][m-]\r\n[Y]DID YOU KNOW?\r\n[C]Players forgive hard levels, not\r\n[C]unfair rules.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

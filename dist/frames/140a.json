@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]Tips and Tricks Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Sharper workflow, fewer headaches,\r\n[W]better results.\r\n[G]Frame run: 140b to 140k.\r\n[c][m.]\r\n[Y]B Disk Speed Habits\r\n[Y]C BASIC Speed-ups\r\n[Y]D Memory Savers\r\n[Y]E Debugging Routine\r\n[Y]F Sprite Practice\r\n[Y]G Sound Polish\r\n[Y]H Input Shortcuts\r\n[Y]I Safe Maintenance\r\n[Y]J Cheat Ethics\r\n[Y]K Project Checklist\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

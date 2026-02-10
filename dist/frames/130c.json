@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "c"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]ROM and RAM Banking\r\n[W]Visibility rules make or break tools.\r\n[c][m.]\r\n[W]Banked memory on expanded models\r\n[W]allows large buffers and data banks\r\n[W]beyond the base visible window.\r\n[W]Safe code keeps stack and critical\r\n[W]variables in stable regions during\r\n[W]bank switches.\r\n[c][m.]\r\n[G]- Plan bank ownership.\r\n[G]- Switch deliberately.\r\n[G]- Restore expected state.\r\n[m][m-]\r\n[Y]RULE\r\n[C]Document bank usage, then enforce it.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

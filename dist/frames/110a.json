@@ -1,0 +1,29 @@
+{
+  "pid": {
+    "page-no": 110,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "title": {
+    "type": "markup",
+    "data": "[Y]CPC Hardware & History Index\r\n[c][m.]\r\n"
+  },
+  "content": {
+    "type": "markup",
+    "data": "[W]Machines, monitors, drives and decades\r\n[W]of practical design.\r\n[G]Frame run: 110b to 110k.\r\n[c][m.]\r\n[Y]B Model Family\r\n[Y]C Monitor Choices\r\n[Y]D Disk and AMSDOS\r\n[Y]E Plus Range\r\n[Y]F M4 Expansion Board\r\n[Y]G Expansion Ecosystem\r\n[Y]H Scene Timeline\r\n[Y]I Collector Checks\r\n[Y]J Service Basics\r\n[Y]K Legacy and Lessons\r\n[c][m-]\r\n[W]0 returns to main, # opens help page.\r\n[C]0 MAIN   [W]# HELP\r\n"
+  },
+  "routing-table": [
+    100,
+    101,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    199
+  ]
+}

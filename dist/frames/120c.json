@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 120,
+    "frame-id": "c"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Adventure Corner\r\n[W]Parser brains and map notebooks.\r\n[c][m.]\r\n[W]Text adventures build logic habits and\r\n[W]reward careful observation.\r\n[W]Helpful hints beat unfair dead ends\r\n[W]when designing your own game.\r\n[c][m.]\r\n[G]- Map your rooms.\r\n[G]- Track key items.\r\n[G]- Write clear clues.\r\n[m][m-]\r\n[Y]TRY THIS\r\n[C]Design one puzzle with two valid\r\n[C]solutions.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

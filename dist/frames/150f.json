@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "f"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Graphics Basics\r\n[W]Choose the right mode for the job.\r\n[c][m.]\r\n[W]Mode choices affect colour count,\r\n[W]detail and readability.\r\n[W]Redraw only changed areas when\r\n[W]possible to reduce flicker and cost.\r\n[c][m.]\r\n[G]- Mode 0: bold art.\r\n[G]- Mode 1: balanced.\r\n[G]- Mode 2: crisp text.\r\n[m][m-]\r\n[Y]ART START\r\n[C]Start readable, then add flair.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 110,
+    "frame-id": "i"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Collector Checks\r\n[W]Buy slowly, test calmly.\r\n[c][m.]\r\n[W]Check keyboard feel, drive behaviour,\r\n[W]cable health and display output before\r\n[W]paying.\r\n[W]A complete working unit often beats a\r\n[W]rare but broken machine.\r\n[c][m.]\r\n[G]- Test all keys.\r\n[G]- Check sound channels.\r\n[G]- Inspect drive belt.\r\n[m][m-]\r\n[Y]BUY SMART\r\n[C]Patience saves money and repair time.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

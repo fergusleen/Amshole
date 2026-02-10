@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "h"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]AY-3-8912 Sound Internals\r\n[W]Three channels, noise and envelopes.\r\n[c][m.]\r\n[W]The AY chip exposes tone periods,\r\n[W]mixer controls, noise and envelopes\r\n[W]for expressive audio.\r\n[W]Smart channel allocation keeps effects\r\n[W]clear without destroying your melody\r\n[W]line.\r\n[c][m.]\r\n[G]- Tone channels A/B/C.\r\n[G]- Noise for percussion.\r\n[G]- Envelope shapes for movement.\r\n[m][m-]\r\n[Y]AUDIO TABLE\r\n[C]Track register writes to debug stuck\r\n[C]notes.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

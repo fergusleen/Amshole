@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Memory Savers\r\n[W]Every byte gets a job.\r\n[c][m.]\r\n[W]Shared buffers and compact data\r\n[W]formats free space for gameplay and\r\n[W]polish.\r\n[W]Bit packing for flags can remove\r\n[W]surprising amounts of overhead.\r\n[c][m.]\r\n[G]- Reuse buffers.\r\n[G]- Pack booleans into bits.\r\n[G]- Avoid duplicate strings.\r\n[m][m-]\r\n[Y]DID YOU KNOW?\r\n[C]Simple compression can rescue a\r\n[C]near-finished build.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

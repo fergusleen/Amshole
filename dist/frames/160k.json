@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 160,
+    "frame-id": "k"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Portfolio Page\r\n[W]Show work like a pro.\r\n[c][m.]\r\n[W]Present art and music snippets with\r\n[W]short notes describing tools and\r\n[W]constraints.\r\n[W]A clean archive helps future\r\n[W]collaborators understand your\r\n[W]workflow.\r\n[c][m.]\r\n[G]- Label versions.\r\n[G]- Explain constraints.\r\n[G]- Save source assets.\r\n[m][m-]\r\n[Y]CAREER TIP\r\n[C]Process notes are as valuable as\r\n[C]output.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

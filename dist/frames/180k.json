@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 180,
+    "frame-id": "k"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Parents Signoff\r\n[W]Support curiosity with structure.\r\n[c][m.]\r\n[W]Encourage experimentation while\r\n[W]setting clear routines for safety and\r\n[W]documentation.\r\n[W]Celebrate persistence and clear\r\n[W]thinking, not just final polish.\r\n[c][m.]\r\n[G]- Routine matters.\r\n[G]- Documentation matters.\r\n[G]- Encouragement matters.\r\n[m][m-]\r\n[Y]FINAL NOTE\r\n[C]Learning to debug is learning to\r\n[C]think.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

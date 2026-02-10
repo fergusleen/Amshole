@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 110,
+    "frame-id": "j"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Service Basics\r\n[W]Maintenance without drama.\r\n[c][m.]\r\n[W]Gentle cleaning and proper storage do\r\n[W]more than aggressive repair attempts.\r\n[W]Label repairs and track dates so\r\n[W]future troubleshooting is faster.\r\n[c][m.]\r\n[G]- Dry cleaning first.\r\n[G]- Protect from dust.\r\n[G]- Keep a repair log.\r\n[m][m-]\r\n[Y]WORKSHOP\r\n[C]Slow careful work beats rushed\r\n[C]heroics.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 170,
+    "frame-id": "b"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Quiz Round One\r\n[W]Six quick questions for hardware\r\n[W]nerds.\r\n[c][m.]\r\n[W]Test your memory on models, chips and\r\n[W]display modes.\r\n[W]No calculators, no peeking, no sibling\r\n[W]hint network.\r\n[c][m.]\r\n[G]- Model question.\r\n[G]- Chip question.\r\n[G]- Mode question.\r\n[m][m-]\r\n[Y]QUIZ\r\n[C]Answers appear later in this section.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

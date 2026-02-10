@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "e"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]CRTC Registers and Timing\r\n[W]Geometry from register values.\r\n[c][m.]\r\n[W]CRTC registers control horizontal and\r\n[W]vertical totals, displayed regions and\r\n[W]start addresses.\r\n[W]Different CRTC variants can differ in\r\n[W]edge behaviour, so testing across\r\n[W]hardware matters.\r\n[c][m.]\r\n[G]- R0/R1 shape line timing.\r\n[G]- R12/R13 set start address.\r\n[G]- Variant quirks are real.\r\n[m][m-]\r\n[Y]DID YOU KNOW?\r\n[C]Minor register shifts can create major\r\n[C]visual changes.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

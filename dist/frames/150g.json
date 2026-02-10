@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "g"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Sound Basics\r\n[W]Melody, rhythm and response cues.\r\n[c][m.]\r\n[W]Simple motifs and short effects make\r\n[W]games feel alive and responsive.\r\n[W]Match tempo to gameplay pace and keep\r\n[W]cue meanings consistent.\r\n[c][m.]\r\n[G]- Write a main motif.\r\n[G]- Add two effect cues.\r\n[G]- Balance levels by ear.\r\n[m][m-]\r\n[Y]LISTEN\r\n[C]If a cue confuses players, redesign\r\n[C]it.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

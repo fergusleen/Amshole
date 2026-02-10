@@ -1,0 +1,5 @@
+./telstar-upload-macos-arm64 \
+  -api-url http://127.0.0.1:6513 \
+  -user 2222222222 \
+  -password 1234 \
+  -source-directory ~/Documents/newcode/Amshole/dist/frames/

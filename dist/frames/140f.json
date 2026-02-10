@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "f"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Sprite Practice\r\n[W]Readable motion over maximal detail.\r\n[c][m.]\r\n[W]Masking and clipping discipline keeps\r\n[W]rendering clean and efficient.\r\n[W]Pre-shifted assets can trade memory\r\n[W]for valuable CPU time.\r\n[c][m.]\r\n[G]- Clip early.\r\n[G]- Mask cleanly.\r\n[G]- Animate key poses first.\r\n[m][m-]\r\n[Y]ART TIP\r\n[C]Silhouette clarity wins at game speed.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

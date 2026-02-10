@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "g"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Raster Tricks\r\n[W]Colour changes mid-frame.\r\n[c][m.]\r\n[W]Raster bars and split screens rely on\r\n[W]precise timing of register and palette\r\n[W]updates.\r\n[W]Debugging with border colour markers\r\n[W]helps locate drift quickly.\r\n[c][m.]\r\n[G]- Use cycle budgets.\r\n[G]- Mark timing visually.\r\n[G]- Retest after every tweak.\r\n[m][m-]\r\n[Y]TIP\r\n[C]Lock one effect before adding the\r\n[C]next.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

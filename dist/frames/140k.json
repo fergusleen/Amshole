@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "k"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Project Checklist\r\n[W]A tiny list that prevents giant pain.\r\n[c][m.]\r\n[W]Define scope, plan milestones and test\r\n[W]each milestone before adding new\r\n[W]features.\r\n[W]Release early and gather feedback\r\n[W]while changes are still cheap.\r\n[c][m.]\r\n[G]- Scope.\r\n[G]- Milestones.\r\n[G]- Release notes.\r\n[m][m-]\r\n[Y]WRAP\r\n[C]Completion is a skill you can\r\n[C]practise.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

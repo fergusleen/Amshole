@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "e"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Arrays and Data\r\n[W]Structured storage for levels and\r\n[W]stats.\r\n[c][m.]\r\n[W]Arrays store repeated values\r\n[W]efficiently and keep related data\r\n[W]grouped.\r\n[W]Data tables are ideal for maps, enemy\r\n[W]waves and score thresholds.\r\n[c][m.]\r\n[G]- Define layout first.\r\n[G]- Track index bounds.\r\n[G]- Document element meaning.\r\n[m][m-]\r\n[Y]DATA BOX\r\n[C]Table-driven design keeps code tidy.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

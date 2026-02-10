@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 110,
+    "frame-id": "h"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Scene Timeline\r\n[W]From launch splash to modern\r\n[W]preservation.\r\n[c][m.]\r\n[W]The original boom years built a\r\n[W]mountain of software and magazines.\r\n[W]Later scene work and archives kept\r\n[W]games, docs and source alive.\r\n[c][m.]\r\n[G]- Launch era energy.\r\n[G]- Magazine peak.\r\n[G]- Preservation era craft.\r\n[m][m-]\r\n[Y]REMEMBER\r\n[C]Backups and notes are cultural\r\n[C]preservation.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "b"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Z80 Memory Map\r\n[W]The 64K view from the CPU.\r\n[c][m.]\r\n[W]The Z80 sees address space from 0000h\r\n[W]to FFFFh, with ROM and RAM visibility\r\n[W]controlled by hardware state.\r\n[W]Treat memory layout as a map before\r\n[W]coding, especially when mixing\r\n[W]firmware and custom routines.\r\n[c][m.]\r\n[G]- 0000-3FFF often lower ROM.\r\n[G]- 4000-BFFF core RAM.\r\n[G]- C000-FFFF may expose upper ROM.\r\n[m][m-]\r\n[Y]TABLE\r\n[C]Sketch your active map per routine to\r\n[C]avoid collisions.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

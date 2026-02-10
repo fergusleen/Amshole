@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 180,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Budgeting\r\n[W]Plan costs before buying.\r\n[c][m.]\r\n[W]Allocate funds for tested hardware,\r\n[W]spare media and simple maintenance\r\n[W]items.\r\n[W]A shared lab setup often lowers cost\r\n[W]per student significantly.\r\n[c][m.]\r\n[G]- Tested units first.\r\n[G]- Spare cable budget.\r\n[G]- Annual maintenance line.\r\n[m][m-]\r\n[Y]FINANCE TIP\r\n[C]Predictable upkeep beats emergency\r\n[C]repairs.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

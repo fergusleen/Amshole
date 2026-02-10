@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "g"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Sound Polish\r\n[W]Small details improve feel.\r\n[c][m.]\r\n[W]Use short cues for action feedback and\r\n[W]reserve melody space for identity.\r\n[W]Dynamic channel priority prevents\r\n[W]effects from swallowing important\r\n[W]tones.\r\n[c][m.]\r\n[G]- Reserve one effect channel.\r\n[G]- Keep motifs short.\r\n[G]- Use silence for contrast.\r\n[m][m-]\r\n[Y]AUDIO NOTE\r\n[C]If every sound is loud, none are\r\n[C]special.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

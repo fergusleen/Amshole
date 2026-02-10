@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 170,
+    "frame-id": "d"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Quiz Answers\r\n[W]Mark fairly and laugh loudly.\r\n[c][m.]\r\n[W]If you got most answers right,\r\n[W]congratulations: you are officially\r\n[W]deep in CPC lore.\r\n[W]If not, that is fine; curiosity beats\r\n[W]scoreboards.\r\n[c][m.]\r\n[G]- Check reasoning.\r\n[G]- Share tips.\r\n[G]- Retry next issue.\r\n[m][m-]\r\n[Y]RESULTS\r\n[C]Knowledge grows fastest when shared.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

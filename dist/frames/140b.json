@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 140,
+    "frame-id": "b"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Disk Speed Habits\r\n[W]Organisation saves minutes every hour.\r\n[c][m.]\r\n[W]Group related assets and source files\r\n[W]so your iteration loop stays fast.\r\n[W]A clean directory plan is a\r\n[W]performance tool, not just\r\n[W]housekeeping.\r\n[c][m.]\r\n[G]- Name by module.\r\n[G]- Keep archive disks.\r\n[G]- Store release builds separately.\r\n[m][m-]\r\n[Y]TIP\r\n[C]Two backup copies beat one heroic\r\n[C]apology.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 180,
+    "frame-id": "j"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Buying Checklist\r\n[W]Practical pre-purchase checks.\r\n[c][m.]\r\n[W]Verify boot behaviour, keyboard\r\n[W]response, display output and drive\r\n[W]movement.\r\n[W]Ask for repair history and storage\r\n[W]conditions when possible.\r\n[c][m.]\r\n[G]- Boot test.\r\n[G]- Input test.\r\n[G]- Audio and drive test.\r\n[m][m-]\r\n[Y]CHECKLIST\r\n[C]Document serials and service notes.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

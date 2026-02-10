@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 130,
+    "frame-id": "i"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Keyboard Matrix\r\n[W]Rows, columns and debounce discipline.\r\n[c][m.]\r\n[W]Keyboard input is matrix scanned, so\r\n[W]robust polling and debounce logic\r\n[W]matter.\r\n[W]Control systems should support held\r\n[W]keys and diagonals without accidental\r\n[W]repeats.\r\n[c][m.]\r\n[G]- Scan predictably.\r\n[G]- Debounce repeats.\r\n[G]- Test edge combos.\r\n[m][m-]\r\n[Y]INPUT NOTE\r\n[C]Fast games live or die on clean\r\n[C]controls.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}

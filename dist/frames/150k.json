@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 150,
+    "frame-id": "k"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "type": "markup",
+    "data": "[Y]Learning Plan\r\n[W]A week-by-week coding path.\r\n[c][m.]\r\n[W]Split learning into focused sessions\r\n[W]for logic, graphics, sound and\r\n[W]cleanup.\r\n[W]Review old code every week and\r\n[W]refactor one small area.\r\n[c][m.]\r\n[G]- Plan sessions.\r\n[G]- Track progress.\r\n[G]- Share your builds.\r\n[m][m-]\r\n[Y]MOTTO\r\n[C]Steady practice beats heroic bursts.\r\n[c][m.]\r\n[C]0 MAIN   [W]# HELP\r\n"
+  }
+}
