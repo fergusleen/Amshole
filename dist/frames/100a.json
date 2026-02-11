@@ -11,7 +11,7 @@
   },
   "content": {
     "type": "markup",
-    "data": "[W]Loud colours, sharp tips, and pure CPC\r\n[W]enthusiasm.\r\n[c][m-]\r\n[Y]1 News and Features -> 101\r\n[C]2 Hardware and History -> 110\r\n[G]3 Games Zone -> 120\r\n[M]4 CPC Internals -> 130\r\n[B]5 Tips and Tricks -> 140\r\n[Y]6 Learn to Code -> 150\r\n[C]7 Art and Sound -> 160\r\n[G]8 Fun Stuff -> 170\r\n[W]9 Parents and Teachers -> 180\r\n[c][m.]\r\n[G]Try page 1 for the mosaic CPC intro.\r\n[C]0 MAIN   [W]# HELP\r\n"
+    "data": "[W]Pure AI Slop\r\n[W]enthusiasm.\r\n[c][m-]\r\n[Y]1 News and Features -> 101\r\n[C]2 Hardware and History -> 110\r\n[G]3 Games Zone -> 120\r\n[M]4 CPC Internals -> 130\r\n[B]5 Tips and Tricks -> 140\r\n[Y]6 Learn to Code -> 150\r\n[C]7 Art and Sound -> 160\r\n[G]8 Fun Stuff -> 170\r\n[W]9 Parents and Teachers -> 180\r\n[c][m.]\r\n[G]Try page 1 for the mosaic CPC intro.\r\n[C]0 MAIN   [W]# HELP\r\n"
   },
   "routing-table": [
     100,
