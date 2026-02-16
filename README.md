@@ -1,6 +1,7 @@
 # AMSHOLE - Amstrad CPC Viewdata Fan Site
 
 This is a complete viewdata Amstrad CPC Fan Site, styled 1986 Amstrad Action/Your Sinclair, created from a few codex prompts.
+It is built to be served by on https://github.com/johnnewcombe/telstar-2
 
 
 - 100a main menu
