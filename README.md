@@ -1,4 +1,4 @@
-# AMSHOLE - Viewdata AI Slop
+# AMSHOLE - Amstrad CPC Viewdata Fan Site
 
 This is a complete viewdata Amstrad CPC Fan Site, styled 1986 Amstrad Action/Your Sinclair, created from a few codex prompts.
 
@@ -17,4 +17,6 @@ This is a complete viewdata Amstrad CPC Fan Site, styled 1986 Amstrad Action/You
 
 Prepped for Telstar-server.
 Frames `20a` to `29a` are unlinked native `edit.tf` payloads:
+
+
 
