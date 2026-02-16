@@ -1,0 +1,12 @@
+{
+  "pid": {
+    "page-no": 60,
+    "frame-id": "a"
+  },
+  "visible": true,
+  "frame-type": "information",
+  "content": {
+    "data": "http://edit.tf/#0:Lf____________________________________________8t_________oECBAgQf___________________QIECBAg__y3________-gQIECBB___________________9AgQIECD__Lf________6BAgQIEH___________________0CBB_Qf__8t_________oP__-gQf_________________-gQf__9B___y3________-g___6D___________________6BB___0H___Lf_______0CD___oP___________________oEH_-gQf__8t________QIP__-g___________________-g___6BB___y3_______9B___0CD___________________6D___oP____Lf_______0H___QIP__________________QIP__-g____8t________QIECBB_QIP_9Ag_oECD-gQIECBAgQIECBB___y3______6BAgQIEH9Ag__0CD-gQIP6BAgQIECBAgQIEH___Lf______oECBAgQf0CD-gQIECBAg_oECBAgQIECBAgQf__8t______-gQf_6BB_QIP6BAgQIP__-g_oECBB___0CD____y3______6D___oECBAg_oEH9Ag__0CD-gQIEH___Qf_____Lf______oP__-g_oECBAgQf0CBB_QIP6D-gQf_6BB_____8t_____9Ag___6D-gQIECBB_QIEH9B__oP6D___oEH_____y3_____0CD__QIP6BAgQIEH9AgQf0H_-g_oP__-gQf_____Lf_____Qf__9AgQIECBAgQf__9B_Qf0CD-g___6D______8t_____9B___0H9AgQIECD___oECBB_QIECD___oP______y3_____0H___Qf0H9AgQIP__-gQIEH9B_QIP_9Ag_______Lf0CBAgQf__9AgQf0CD-gQIECD-gQIEH9B___0CBAgQIECAsgQIECBB__oECBB_QIECBAgQIP6BAgQf0H___QIECBAgQICyBAgQIP__-gQIEH9B_QIECBAg_oECBB_Qf__9AgQIECBAgLf____________________________________________8",
+    "type": "edit.tf"
+  }
+}
